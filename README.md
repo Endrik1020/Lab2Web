@@ -72,5 +72,34 @@ Kemudian tambahkan deklarasi inline CSS pada tag
 ~~~
 ![1a](https://user-images.githubusercontent.com/81820421/114268443-57aa9380-9a2b-11eb-8687-0b243799bcfe.JPG)
 ![1b (2)](https://user-images.githubusercontent.com/81820421/114268445-5a0ced80-9a2b-11eb-9655-58b2871841d1.JPG)
+## 4. Membuat CSS Ekstrernal
+Buatlah file baru dengan nama Style_eksternakl.css kemudian deklarasi CSS seperti berikut.
+~~~4nav {
+    background: #20A759;
+    color:#fff;
+    padding: 10px;
+}
+nav a {
+    color: #fff;
+    text-decoration: none;
+    padding:10px 20px;
+}
+nav .active,
+nav a:hover {
+    background: #0B6B3A;
+}
 ~~~
+
+![4a](https://user-images.githubusercontent.com/81820421/114268887-b6710c80-9a2d-11eb-9f66-7323af96f584.JPG)
+![4b](https://user-images.githubusercontent.com/81820421/114268889-ba9d2a00-9a2d-11eb-99c0-c7b8c589f9e7.JPG)
+
+Kemudian tambahkan tag untuk merujuk ke file css yag sudah dibuat pada bagian 
+    ~~~
+    <head>
+        <!-- menyisipkan css eksternal -->
+        <link rel="stylesheet" href="style_eksternal.css" type="text/css">
+    </head>
+    ~~~
+ ![4c](https://user-images.githubusercontent.com/81820421/114268921-051ea680-9a2e-11eb-9b65-61e2cee473bd.JPG)
+![4d](https://user-images.githubusercontent.com/81820421/114268923-064fd380-9a2e-11eb-9a07-d10be4775ecb.JPG)
 
