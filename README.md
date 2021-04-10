@@ -138,11 +138,20 @@ Selanjutnya menambahkan CSS Selector menggunakan ID dan Class Selector. Pada fil
 ![6b](https://user-images.githubusercontent.com/81820421/114269065-e240c200-9a2e-11eb-81e0-a4f8577d2bf2.JPG)
 
 ## Pertanyaan
-Lakukan eksperimen dengan mengubah dan menambah properti dan nilai pada kode CSS dengan mengacu pada CSS Cheat Sheet yang diberikan pada file terpisah dari modul ini.
+~~~
+1. Lakukan eksperimen dengan mengubah dan menambah properti dan nilai pada kode CSS dengan mengacu pada CSS Cheat Sheet yang diberikan pada file terpisah dari modul ini.
 ~~~
 Saya mencoba percobaan dengan mengubah warna background dan mengganti font sesuai selera saya .
-~~~
 
 ![7a jawab](https://user-images.githubusercontent.com/81820421/114269182-95a9b680-9a2f-11eb-97b7-dca917316b8e.JPG)
 ![7b jawaban](https://user-images.githubusercontent.com/81820421/114269184-96dae380-9a2f-11eb-8abf-c192ec6cfa7a.JPG)
-
+~~~
+2. Apa perbedaan pendeklarasian CSS elemen h1 {...} dengan #intro h1 {...}? berikan penjelasannya!
+~~~
+Pendeklarasian CSS elemen h1 mengubah tampilan seluruh elemen yang memiliki tag h1, sedangkan #intro h1 hanya mengubah tampilan elemen h1 yang memiliki id #intro.
+~~~
+3. Apabila ada deklarasi CSS secara internal, lalu ditambahkan CSS eksternal dan inline CSS pada elemen yang sama. Deklarasi manakah yang akan ditampilkan pada browser? Berikan penjelasan dan contohnya!
+~~~
+Deklarasi yang akan ditampilkan adalah  inline CSS karena inline CSS memiliki permintaan HTTPyang lebih kecil sehingga sistem membaca lebih cepat .
+![8a jawaban](https://user-images.githubusercontent.com/81820421/114269299-8119ee00-9a30-11eb-99d8-99388248ab48.JPG)
+![8b jawaban](https://user-images.githubusercontent.com/81820421/114269301-82e3b180-9a30-11eb-8e68-1830ed3e7e4d.JPG)
