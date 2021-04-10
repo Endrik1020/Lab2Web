@@ -103,3 +103,35 @@ Kemudian tambahkan tag untuk merujuk ke file css yag sudah dibuat pada bagian
  ![4c](https://user-images.githubusercontent.com/81820421/114268921-051ea680-9a2e-11eb-9b65-61e2cee473bd.JPG)
 ![4d](https://user-images.githubusercontent.com/81820421/114268923-064fd380-9a2e-11eb-9a07-d10be4775ecb.JPG)
 
+## 5. Menambahkan CSS Selector
+Selanjutnya menambahkan CSS Selector menggunakan ID dan Class Selector. Pada file style_eksternal.css, tambahkan kode berikut.
+~~~
+/* ID Selector */
+#intro {
+    background: #418fb1;
+    border: 1px solid #099249;
+    min-height: 100px;
+    padding: 10px;
+}
+#intro h1 {
+    text-align: left;
+    border: 0;
+    color: #fff;
+}
+/* Class Selector */
+.button {
+    padding: 15px 20px;
+    background: #bebcbd;
+    color: #fff;
+    display: inline-block;
+    margin: 10px;
+    text-decoration: none;
+}
+.btn-primary {
+    background: #E42A42;
+}
+~~~
+
+
+![6a](https://user-images.githubusercontent.com/81820421/114269063-e10f9500-9a2e-11eb-922f-511771ba1dd1.JPG)
+![6b](https://user-images.githubusercontent.com/81820421/114269065-e240c200-9a2e-11eb-81e0-a4f8577d2bf2.JPG)
