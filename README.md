@@ -108,7 +108,7 @@ Selanjutnya menambahkan CSS Selector menggunakan ID dan Class Selector. Pada fil
 ~~~
 /* ID Selector */
 #intro {
-    background: #418fb1;
+    background: hs1(315, 92%, 46%);
     border: 1px solid #099249;
     min-height: 100px;
     padding: 10px;
@@ -135,3 +135,13 @@ Selanjutnya menambahkan CSS Selector menggunakan ID dan Class Selector. Pada fil
 
 ![6a](https://user-images.githubusercontent.com/81820421/114269063-e10f9500-9a2e-11eb-922f-511771ba1dd1.JPG)
 ![6b](https://user-images.githubusercontent.com/81820421/114269065-e240c200-9a2e-11eb-81e0-a4f8577d2bf2.JPG)
+
+## Pertanyaan
+Lakukan eksperimen dengan mengubah dan menambah properti dan nilai pada kode CSS dengan mengacu pada CSS Cheat Sheet yang diberikan pada file terpisah dari modul ini.
+~~~
+Saya mencoba percobaan dengan mengubah warna background dan mengganti font sesuai selera saya .
+~~~
+
+![7a jawab](https://user-images.githubusercontent.com/81820421/114269182-95a9b680-9a2f-11eb-97b7-dca917316b8e.JPG)
+![7b jawaban](https://user-images.githubusercontent.com/81820421/114269184-96dae380-9a2f-11eb-8abf-c192ec6cfa7a.JPG)
+
