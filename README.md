@@ -1,6 +1,3 @@
-![1a](https://user-images.githubusercontent.com/81820421/114268443-57aa9380-9a2b-11eb-8687-0b243799bcfe.JPG)
-![1b (2)](https://user-images.githubusercontent.com/81820421/114268445-5a0ced80-9a2b-11eb-9655-58b2871841d1.JPG)
-
 # Pemograman Web
 ~~~
 Nama   = Endrik
@@ -71,6 +68,8 @@ Kemudian tambahkan deklarasi CSS internal seperti berikut pada bagian head dokum
 Kemudian tambahkan deklarasi inline CSS pada tag
 ~~~
 <p style="text-align: center; color: #ccd8e4;">
-~~~![3](https://user-images.githubusercontent.com/81820421/114268645-50d05080-9a2c-11eb-8bf1-1aba60dda5c2.JPG)
-![3b](https://user-images.githubusercontent.com/81820421/114268646-53cb4100-9a2c-11eb-9e01-90ed47fd8d8b.JPG)
+~~~
+![1a](https://user-images.githubusercontent.com/81820421/114268443-57aa9380-9a2b-11eb-8687-0b243799bcfe.JPG)
+![1b (2)](https://user-images.githubusercontent.com/81820421/114268445-5a0ced80-9a2b-11eb-9655-58b2871841d1.JPG)
+~~~
 
