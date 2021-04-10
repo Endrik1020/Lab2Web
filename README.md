@@ -155,3 +155,18 @@ Pendeklarasian CSS elemen h1 mengubah tampilan seluruh elemen yang memiliki tag 
 Deklarasi yang akan ditampilkan adalah  inline CSS karena inline CSS memiliki permintaan HTTPyang lebih kecil sehingga sistem membaca lebih cepat .
 ![8a jawaban](https://user-images.githubusercontent.com/81820421/114269299-8119ee00-9a30-11eb-99d8-99388248ab48.JPG)
 ![8b jawaban](https://user-images.githubusercontent.com/81820421/114269301-82e3b180-9a30-11eb-8e68-1830ed3e7e4d.JPG)
+
+~~~
+4. Pada sebuah elemen HTML terdapat ID dan Class, apabila masing-masing selector tersebut terdapat deklarasi CSS, maka deklarasi manakah yang akan ditampilkan pada browser? Berikan penjelasan dan contohnya! <p id="paragraf-1" class="text-paragraf">
+~~~
+Atribut class berfungsi untuk menentukan nama class dari suatu elemen. Berbeda dengan id yang bersifat unik, class diperbolehkan untuk digunakan oleh lebih dari satu elemen yang ditandainya.
+
+Atribut class juga sering digunakan untuk menunjuk ke nama class pada lembar gaya (style sheet). Hal ini juga dapat digunakan Javascript untuk mengakses dan memanipulasi elemen dengan nama class tertentu.
+
+Cara mendefinisikan style untuk class tertentu adalah dengan menjadikannya sebagai selector menggunakan tanda titik atau dot (.) diikuti dengan nama atau nilai dari atribut class.
+Karena kelas tidak bersifat unik maka kita diizinkan untuk menentukan banyak class dengan nilai yang sama untuk banyak elemen dalam dokumen HTML.
+Ini Sebagaicontohnya :
+![9a](https://user-images.githubusercontent.com/81820421/114269802-04d4da00-9a33-11eb-895f-2a5eb276de6c.JPG)
+![9b](https://user-images.githubusercontent.com/81820421/114269805-069e9d80-9a33-11eb-9df2-cdc817494ed6.JPG)
+
+
