@@ -70,8 +70,9 @@ Kemudian tambahkan deklarasi inline CSS pada tag
 ~~~
 <p style="text-align: center; color: #ccd8e4;">
 ~~~
-![1a](https://user-images.githubusercontent.com/81820421/114268443-57aa9380-9a2b-11eb-8687-0b243799bcfe.JPG)
-![1b (2)](https://user-images.githubusercontent.com/81820421/114268445-5a0ced80-9a2b-11eb-9655-58b2871841d1.JPG)
+![3](https://user-images.githubusercontent.com/81820421/114269231-f76a2080-9a2f-11eb-94b6-a5a37f4d8925.JPG)
+![3b](https://user-images.githubusercontent.com/81820421/114269232-f933e400-9a2f-11eb-893c-b2e0ec5a315f.JPG)
+
 ## 4. Membuat CSS Ekstrernal
 Buatlah file baru dengan nama Style_eksternakl.css kemudian deklarasi CSS seperti berikut.
 ~~~4nav {
