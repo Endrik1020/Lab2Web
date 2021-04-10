@@ -6,6 +6,7 @@ Kelas  = TI.19.C.1
 Universitas Pelita Bangsa
 ~~~
 ## 1. Membuat dokumen HTML
+Buatlah dokumen HTML seperti berikut.
 ~~~
 <!DOCTYPE html>
 <html lang="en">
@@ -36,7 +37,7 @@ Universitas Pelita Bangsa
 ![1a](https://user-images.githubusercontent.com/81820421/114268443-57aa9380-9a2b-11eb-8687-0b243799bcfe.JPG)
 ![1b (2)](https://user-images.githubusercontent.com/81820421/114268445-5a0ced80-9a2b-11eb-9655-58b2871841d1.JPG)
 
-## 1. Mendeklarasikan CSS Internal
+## 2. Mendeklarasikan CSS Internal
 Kemudian tambahkan deklarasi CSS internal seperti berikut pada bagian head dokumen.
 ~~~
 +<head>
@@ -64,7 +65,7 @@ Kemudian tambahkan deklarasi CSS internal seperti berikut pada bagian head dokum
 ![2a](https://user-images.githubusercontent.com/81820421/114268549-cee02780-9a2b-11eb-89bf-f596e85a287a.JPG)
 ![2b](https://user-images.githubusercontent.com/81820421/114268551-d0115480-9a2b-11eb-9394-2ee39aa6f8df.JPG)
 
-## Menambahkan Inline CSS
+## 3. Menambahkan Inline CSS
 Kemudian tambahkan deklarasi inline CSS pada tag
 ~~~
 <p style="text-align: center; color: #ccd8e4;">
